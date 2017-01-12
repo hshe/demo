@@ -227,5 +227,8 @@
 	</build>
 	<modules>
 		<module>common</module>
+		<module>mapper</module>
+		<module>service</module>
+		<module>web</module>
 	</modules>
 </project>
